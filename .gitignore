@@ -1,0 +1,8 @@
+.env
+.tmp/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+variant.html
+problem.html
